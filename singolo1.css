@@ -1,0 +1,220 @@
+@font-face {
+    font-family: Lato-Bold; 
+    src: url(assets/Lato-Bold.ttf);
+}
+@font-face {
+    font-family: Lato-Regular; 
+    src: url(assets/Lato-Regular.ttf);
+}
+body {
+    
+    margin: 0 auto;
+    padding: 0;
+    
+}
+header {
+     
+    color: white;    
+    width: 1020px;
+    height: 89px;
+    margin: 0 auto;
+    background-color: #2d303a;
+    border-bottom: 6px #323746 solid;
+}
+article {
+    width: 1020px;
+    height: 594px;
+    margin: 0 auto; 
+    background-color: #f06c64;
+    border-bottom: 6px #ea676b solid;
+}
+footer {
+    
+    color: #666d89;
+    width: 1020px;
+    height: 494px;
+    margin: 0 auto; 
+    background-color: #f2f2f2;
+    border-bottom: 6px #ffffff solid;
+}
+nav {
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    float: right;
+    padding: 42px 19px 20px 10px;
+    font-size: 12px; 
+    font-weight: 500;  
+    font-family: Lato-Regular; 
+    
+}
+#dot-1 {
+    position: relative;
+    left: 906px;
+    top: 41px;
+}
+#dot-2 {
+    position: relative;
+    left: 823px;
+    top: 41px;
+}
+#dot-3 {
+    position: relative;
+    left: 716px;
+    top: 41px;
+    
+}
+#dot-4 {
+    position: relative;
+    left: 620px;
+    top: 41px;
+}
+#home {
+    color:#f06c64;
+}
+nav a:hover {
+    color: rgb(224, 210, 10);
+}
+#singolo {
+    margin-right: 423px;
+    position: relative;
+    top: -29px;
+    font-family: Lato-Bold; 
+    font-weight: 500;
+    font-size: 24px;
+}
+#singolo span {
+    color:red;
+}
+
+#phone-1 {
+    position:relative;
+    left: 90px;
+    top: 20px;
+}
+#phone-2 {
+    position:relative;
+    left: 159px;
+    top: -102px;
+}
+#directory-left {
+    position: relative;
+    top: 280px;
+    left: 41px;
+}
+#directory-right {
+    transform: scale(-1, 1);
+    position: relative;
+    top:-207px;
+    left: 963px;
+}
+#directory-left:hover {
+    background-color: rgb(172, 9, 136);
+}
+#directory-right:hover {
+    background-color: rgb(172, 9, 136);
+}
+#bottom-container {  
+    float:left;
+}
+
+h1   {
+    font-family: Lato-Bold;
+    line-height: 0.7;
+    font-size: 31px;
+    margin:0px;
+    padding:67px 0px 0px 40px;
+    font-weight: 900;
+}
+#text-block-p {
+    font-family: Lato-Regular;
+    font-size: 17px;
+    margin:0px;
+    line-height: 1.8;
+    padding: 26px 0px 0px 40px;
+}
+.text-1 {
+    
+    font-family: Lato-Regular; 
+    width: 220px;
+    padding-left: 120px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-weight: lighter;
+}
+.text-1 p {
+    font-size: 12px;
+    line-height: 1.8;
+    margin-top:0px;
+    padding-top:0px;
+}
+.text-1 h3 {
+    padding-bottom:9px;
+    margin:20px 0px 0px 0px;
+}
+
+.text-2 {
+    font-family: Lato-Regular; 
+    width: 220px;
+    padding-left:120px;
+    padding-top:10px;
+    
+}
+.text-2 p {
+    font-size: 12px;
+    line-height: 1.8;
+    padding:7px 0px 0px 0px;
+    margin:0;
+}
+.text-2 h3 {
+    margin: 0px;
+    padding-top: 8px;
+    padding-bottom: 0px
+}
+#icon-1 {
+    float: left;
+    padding-left: 40px;
+    padding-top: 46px;
+}
+#icon-2 {
+    float: left;
+    padding-left: 41px;
+    padding-top: 23px;
+}
+#icon-3 {
+    float: left;
+    padding-left: 39px;
+    padding-top: 46px;
+}
+#icon-4 {
+    float: left;
+    padding-left: 40px;
+    padding-top: 23px;
+}
+#icon-5 {
+    float: left;
+    padding-left: 40px;
+    padding-top: 46px;
+}
+#icon-6 {
+    float: left;
+    padding-left: 39px;
+    padding-top: 22px;
+}
+.block-1 {
+    width: 320px;
+    float: left;
+}
+
+.block-2 {
+    width: 320px;
+    float: left;
+}
+
+.block-3 {
+    width: 320px;
+    float: left;
+}
