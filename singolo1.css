@@ -74,6 +74,9 @@ nav a {
 #home {
     color:#f06c64;
 }
+#home:hover {
+    color:yellow;
+}
 nav a:hover {
     color: rgb(224, 210, 10);
 }
